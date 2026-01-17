@@ -2,8 +2,8 @@
 OWASP Juice Shop vulnerability testing project
 ## Screenshots
 
-### Admin Login
-![Admin Login](admin_login)
+ ![Alt Text](screenshots/admin_login.png)
+
 
 ### Basket 1
 ![Basket 1](screenshots/basket1.png)
